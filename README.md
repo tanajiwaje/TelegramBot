@@ -1,6 +1,6 @@
 # TelegramBot
-Step 1:Create a Telegram Account
-  if you dont already have a telegram account,download the telegram app on your phone or desktop and sign up.
+Step 1:
+  >Create a Telegram Account if you dont already have a telegram account,download the telegram app on your phone or desktop and sign up.
 
 Step 2:Create a new Bot using BotFather
   >Open Telegram and search for BotFather,which is an official bot provided by     Telegram to manage other bots
