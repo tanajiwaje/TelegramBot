@@ -3,11 +3,11 @@ Step 1:Create a Telegram Account
   if you dont already have a telegram account,download the telegram app on your phone or desktop and sign up.
 
 Step 2:Create a new Bot using BotFather
-  *Open Telegram and search for BotFather,which is an official bot provided by     Telegram to manage other bots
+  >Open Telegram and search for BotFather,which is an official bot provided by     Telegram to manage other bots
 
-  *Start a chat with BotFather by clicking the "Start" Button
+  >Start a chat with BotFather by clicking the "Start" Button
 
-  *Create a new bot
+  >Create a new bot
     >Type /newbot and press enter.
     >BotFather will ask you to choose a name for your bot.This can be               anything,such as "myfirstbot"
     >After choosing the bot's name, you will be asked to choose a username for
