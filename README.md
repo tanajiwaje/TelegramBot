@@ -28,9 +28,9 @@ Step 4:Get your user chat ID
   >https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
 
 Step 5 :Check the response 
-  You will see the JSON response that contains information about the chat,
-  including the chat ID
-  Look for the "chat" section in the JSON response. It will look something like:
+  >You will see the JSON response that contains information about the chat,
+  >including the chat ID
+  >Look for the "chat" section in the JSON response. It will look something like:
   {
   "update_id": 123456789,
   "message": {
@@ -55,8 +55,7 @@ Step 5 :Check the response
    }
    }
 
-step 6: Write code in any programming language then check the result 
- for example i wrote code in python 
+step 6: Write code by using any programming language
 
   
 
